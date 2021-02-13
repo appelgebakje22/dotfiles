@@ -12,6 +12,7 @@ font:
     family: JetBrains Mono
     style: Bold Italic
   size: 11
+background_opacity: 0.5
 colors:
   primary:
     background: '0x282a36'
