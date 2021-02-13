@@ -1,0 +1,4 @@
+#!/bin/bash
+
+alias \
+	dotfiles="/usr/bin/git --git-dir=$HOME/Documents/dotfiles --work-tree=$HOME"
