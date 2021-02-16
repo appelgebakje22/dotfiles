@@ -98,10 +98,12 @@ for_window [class=".*"] border pixel 1
 gaps inner 10
 smart_gaps on
 
+for_window [class="jetbrains-toolbox"] floating enable
 for_window [class="Shattered"] floating enable
 
 assign [class="discord"] $ws5
 assign [class="jetbrains-idea-ce"] $ws2
 assign [class="Steam"] $ws6
+assign [class="Microsoft Teams - Preview"] $ws5
 
 exec --no-startup-id jetbrains-toolbox --minimize
