@@ -107,3 +107,4 @@ assign [class="Steam"] $ws6
 assign [class="Microsoft Teams - Preview"] $ws5
 
 exec --no-startup-id jetbrains-toolbox --minimize
+exec --no-startup-id i3-msg workspace number 2
